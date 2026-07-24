@@ -1,0 +1,11 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">CubeSat icon</title>
+  <desc id="desc">Minimal line icon of a CubeSat with small solar panels.</desc>
+  <rect width="96" height="96" rx="18" fill="#0B1220"/>
+  <path d="M48 19L70 32V61L48 74L26 61V32L48 19Z" fill="#101C31" stroke="#93C5FD" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M48 19V47M26 32L48 47L70 32M48 47V74" stroke="#93C5FD" stroke-width="1.7" stroke-linejoin="round"/>
+  <path d="M18 39H26M70 39H78M12 33L18 39L12 45M84 33L78 39L84 45" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M37 43H46V54H37V43ZM51 43H60V54H51V43Z" fill="#0B1220" stroke="#2DD4BF" stroke-width="1.5"/>
+  <circle cx="72" cy="67" r="3" fill="#F59E0B"/>
+</svg>
+

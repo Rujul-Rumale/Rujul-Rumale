@@ -1,0 +1,53 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rujul Rumale engineering banner</title>
+  <desc id="desc">A dark minimal banner with circuit traces, a CubeSat silhouette, rover line art, and RF telemetry arcs.</desc>
+  <rect width="1200" height="300" rx="0" fill="#08111F"/>
+  <path d="M0 248H1200" stroke="#15243A" stroke-width="1"/>
+  <path d="M0 82H1200" stroke="#101D31" stroke-width="1"/>
+  <path d="M96 228H228V190H352V136H464" stroke="#2DD4BF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.78"/>
+  <path d="M86 104H204V140H314V106H454" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.55"/>
+  <path d="M735 228H852V186H946V124H1065" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.65"/>
+  <path d="M748 76H884V110H997V88H1118" stroke="#C084FC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/>
+  <circle cx="96" cy="228" r="5" fill="#2DD4BF"/>
+  <circle cx="352" cy="136" r="5" fill="#2DD4BF"/>
+  <circle cx="454" cy="106" r="5" fill="#60A5FA"/>
+  <circle cx="735" cy="228" r="5" fill="#F59E0B"/>
+  <circle cx="1065" cy="124" r="5" fill="#F59E0B"/>
+  <circle cx="1118" cy="88" r="5" fill="#C084FC"/>
+
+  <g transform="translate(520 58)">
+    <path d="M66 10L128 45V118L66 154L4 118V45L66 10Z" fill="#0D1B2E" stroke="#93C5FD" stroke-width="2"/>
+    <path d="M66 10V82M4 45L66 82L128 45M66 82V154" stroke="#93C5FD" stroke-width="1.5" opacity="0.85"/>
+    <path d="M34 63H58V89H34V63ZM74 63H98V89H74V63Z" fill="#122842" stroke="#2DD4BF" stroke-width="1.5"/>
+    <path d="M-54 62H3M129 62H186" stroke="#64748B" stroke-width="2" stroke-linecap="round"/>
+    <path d="M-78 44L-54 62L-78 80M210 44L186 62L210 80" stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <g transform="translate(170 170)">
+    <path d="M10 34H118L146 58H44L10 34Z" fill="#0D1B2E" stroke="#2DD4BF" stroke-width="2" stroke-linejoin="round"/>
+    <path d="M45 34L64 8H105L124 34" stroke="#2DD4BF" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="52" cy="64" r="14" fill="#08111F" stroke="#93C5FD" stroke-width="2"/>
+    <circle cx="118" cy="64" r="14" fill="#08111F" stroke="#93C5FD" stroke-width="2"/>
+    <path d="M64 8L78 34M105 8L91 34" stroke="#2DD4BF" stroke-width="1.5" opacity="0.7"/>
+  </g>
+
+  <g transform="translate(910 76)" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" opacity="0.85">
+    <path d="M20 62C46 40 74 40 100 62"/>
+    <path d="M2 42C42 8 78 8 118 42"/>
+    <path d="M40 84C54 72 66 72 80 84"/>
+    <circle cx="60" cy="104" r="5" fill="#F59E0B" stroke="none"/>
+  </g>
+
+  <g transform="translate(90 62)" opacity="0.92">
+    <text x="0" y="0" fill="#E5E7EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="0">RUJUL RUMALE</text>
+    <text x="0" y="34" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="0">Embedded Systems | Robotics | UAVs | CubeSats | RF Communications</text>
+  </g>
+
+  <g transform="translate(840 210)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" fill="#94A3B8">
+    <text x="0" y="0">firmware</text>
+    <text x="92" y="0">telemetry</text>
+    <text x="192" y="0">avionics</text>
+    <text x="288" y="0">autonomy</text>
+  </g>
+</svg>
+
