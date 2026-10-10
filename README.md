@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Dark engineering banner with circuit traces, CubeSat, rover, and RF telemetry line art" width="100%">
-</p>
-
 <h1 align="center">Rujul Rumale</h1>
 
 <p align="center">
   <strong>Electronics and Communication Engineering student</strong><br>
-  Embedded systems, robotics, UAVs, CubeSats, RF communications, PCB design, autonomous systems, and embedded AI.
+  Embedded systems &middot; robotics &middot; UAVs &middot; CubeSats &middot; RF communications &middot; PCB design &middot; embedded AI
 </p>
 
 <p align="center">
@@ -39,30 +35,12 @@ Selected highlights:
 
 ## Engineering Domains
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="./assets/rover.svg" width="54" alt="Rover icon"><br>
-      <strong>Robotics</strong><br>
-      <sub>rovers, sensing, control, autonomy</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./assets/cubesat.svg" width="54" alt="CubeSat icon"><br>
-      <strong>Aerospace</strong><br>
-      <sub>CanSats, CubeSats, avionics, telemetry</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./assets/rf.svg" width="54" alt="RF icon"><br>
-      <strong>RF Systems</strong><br>
-      <sub>communications, link budgets, test setups</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="./assets/avionics.svg" width="54" alt="Avionics icon"><br>
-      <strong>Embedded</strong><br>
-      <sub>firmware, PCB bring-up, embedded AI</sub>
-    </td>
-  </tr>
-</table>
+| Domain | Focus |
+| --- | --- |
+| Robotics | rovers, sensing, control, autonomy |
+| Aerospace | CanSats, CubeSats, avionics, telemetry |
+| RF Systems | communications, link budgets, test setups |
+| Embedded | firmware, PCB bring-up, embedded AI |
 
 ## Tech Stack
 
@@ -77,25 +55,18 @@ Selected highlights:
 
 ## Featured Projects
 
-These are the project lanes I would keep polished and pinned for embedded, robotics, aerospace, and defense-focused reviewers.
+The repositories I keep polished for embedded, robotics, aerospace, and defense-focused reviewers.
 
-| Project | What it shows |
-| --- | --- |
-| Autonomous Rover Platform | Embedded control, mechanical integration, sensor fusion, terrain testing |
-| UAV Propulsion Health Monitoring | DAQ design, telemetry, signal analysis, predictive maintenance thinking |
-| CanSat Avionics and Telemetry | Flight computer design, RF communication, payload data handling |
-| CubeSat Avionics Lab | Subsystem architecture, fault-aware thinking, mission-style documentation |
-| RF Telemetry Toolkit | Link-budget work, communication reliability, measurement discipline |
-| Embedded AI Experiments | TinyML-style models, edge inference, constrained compute awareness |
-
-Suggested repositories to pin:
-
-- `autonomous-rover`
-- `uav-propulsion-health-monitoring`
-- `cansat-avionics-telemetry`
-- `cubesat-avionics-lab`
-- `rf-telemetry-toolkit`
-- `embedded-ai-experiments`
+| Project | Repository | What it shows |
+| --- | --- | --- |
+| UAV Propulsion Health Monitor | [PHM_Mini](https://github.com/Rujul-Rumale/PHM_Mini) | Physics-based health indices, DAQ design, telemetry, sensor fusion |
+| SpecVue | [SpecVue](https://github.com/Rujul-Rumale/SpecVue) | 4-layer ESP32-S3 PCB, power-tree design, on-device vision |
+| Adaptive Swarm Communications | [Adaptive-Decentralised-swarm-communication](https://github.com/Rujul-Rumale/Adaptive-Decentralised-swarm-communication) | Decentralized wireless sensor network, adaptive comms (RP2350 + HC-12) |
+| ALL Detection | [ALL-Detection](https://github.com/Rujul-Rumale/ALL-Detection) | On-device medical AI: SAM segmentation + MobileNetV3 TFLite |
+| Sentinel India | [Sentinel](https://github.com/Rujul-Rumale/Sentinel) | Geospatial OSINT portal, Spring Boot + React/Leaflet, live data feeds |
+| AI Agentic Assistant | [AI-Agentic-Assitant](https://github.com/Rujul-Rumale/AI-Agentic-Assitant) | LLM message triage, policy engine, bridge architecture |
+| Computer Companion | [Computer_Companion](https://github.com/Rujul-Rumale/Computer_Companion) | Fully local LLM + STT/TTS desktop agent with persistent memory |
+| Shared Photo Album | [Shared_photo_album](https://github.com/Rujul-Rumale/Shared_photo_album) | Full-stack FastAPI + React template with auth and moderation |
 
 ## Research Interests
 
@@ -119,4 +90,3 @@ I am interested in embedded systems, robotics, aerospace, defense technology, an
 
 - GitHub: [Rujul-Rumale](https://github.com/Rujul-Rumale)
 - Email: [rujul.rumale@gmail.com](mailto:rujul.rumale@gmail.com)
-
