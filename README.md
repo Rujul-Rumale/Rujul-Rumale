@@ -23,7 +23,6 @@ Selected highlights:
 - World Champion - WCRC CanSat World Finals
 - Best Communication System Award
 - Presented research at GLEX 2025
-- Co-Founder, Krutrim Space Tech
 
 ## Current Focus
 
