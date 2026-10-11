@@ -58,6 +58,7 @@ The repositories I keep polished for embedded, robotics, aerospace, and defense-
 
 | Project | Repository | What it shows |
 | --- | --- | --- |
+| OpenVCU | [OpenVCU](https://github.com/Rujul-Rumale/OpenVCU) | STM32H7 vehicle control unit for quad / plane / rover / boat, open KiCad schematics |
 | UAV Propulsion Health Monitor | [PHM_Mini](https://github.com/Rujul-Rumale/PHM_Mini) | Physics-based health indices, DAQ design, telemetry, sensor fusion |
 | SpecVue | [SpecVue](https://github.com/Rujul-Rumale/SpecVue) | 4-layer ESP32-S3 PCB, power-tree design, on-device vision |
 | Adaptive Swarm Communications | [Adaptive-Decentralised-swarm-communication](https://github.com/Rujul-Rumale/Adaptive-Decentralised-swarm-communication) | Decentralized wireless sensor network, adaptive comms (RP2350 + HC-12) |
