@@ -50,7 +50,7 @@ Selected highlights:
 | Interfaces | UART, SPI, I2C, CAN, PWM, ADC, telemetry pipelines |
 | Robotics | ROS 2 concepts, sensor fusion, motor control, localization, field testing |
 | Aerospace | CanSat avionics, CubeSat subsystems, UAV systems, ground-station workflows |
-| Data and AI | NumPy, OpenCV, MATLAB, embedded inference, anomaly detection |
+| Data and AI | NumPy, OpenCV, MATLAB, embedded inference, anomaly detection, biosignal DSP |
 
 ## Featured Projects
 
@@ -61,6 +61,7 @@ The repositories I keep polished for embedded, robotics, aerospace, and defense-
 | OpenVCU | [OpenVCU](https://github.com/Rujul-Rumale/OpenVCU) | STM32H7 vehicle control unit for quad / plane / rover / boat, open KiCad schematics |
 | UAV Propulsion Health Monitor | [PHM_Mini](https://github.com/Rujul-Rumale/PHM_Mini) | Physics-based health indices, DAQ design, telemetry, sensor fusion |
 | SpecVue | [SpecVue](https://github.com/Rujul-Rumale/SpecVue) | 4-layer ESP32-S3 PCB, power-tree design, on-device vision |
+| EMG Assistive HCI | [emg-assistive-hci](https://github.com/Rujul-Rumale/emg-assistive-hci) | EMG-to-mouse assistive interface, RP2040 + dual BioAmp Patchy, threshold + moving-average DSP |
 | Adaptive Swarm Communications | [Adaptive-Decentralised-swarm-communication](https://github.com/Rujul-Rumale/Adaptive-Decentralised-swarm-communication) | Decentralized wireless sensor network, adaptive comms (RP2350 + HC-12) |
 | ALL Detection | [ALL-Detection](https://github.com/Rujul-Rumale/ALL-Detection) | On-device medical AI: SAM segmentation + MobileNetV3 TFLite |
 | Sentinel India | [Sentinel](https://github.com/Rujul-Rumale/Sentinel) | Geospatial OSINT portal, Spring Boot + React/Leaflet, live data feeds |
@@ -75,6 +76,7 @@ The repositories I keep polished for embedded, robotics, aerospace, and defense-
 - UAV propulsion monitoring and fault detection
 - Autonomous navigation for rover and UAV platforms
 - Embedded AI for onboard perception, diagnostics, and decision support
+- Biosignal HCI and assistive interfaces (EMG acquisition, DSP, real-time control)
 - PCB design for compact, testable, field-ready systems
 
 ## GitHub Statistics
