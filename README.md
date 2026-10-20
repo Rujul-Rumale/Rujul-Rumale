@@ -92,3 +92,7 @@ I am interested in embedded systems, robotics, aerospace, defense technology, an
 
 - GitHub: [Rujul-Rumale](https://github.com/Rujul-Rumale)
 - Email: [rujul.rumale@gmail.com](mailto:rujul.rumale@gmail.com)
+
+---
+
+![Views](https://komarev.com/ghpvc/?username=Rujul-Rumale&repo=Rujul-Rumale&label=Views&color=0e75b6)
